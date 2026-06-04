@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Lighting.umap",
+				"C:/Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap",
+				"C:/Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap",
+				"C:/Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_VFX.umap",
+				"C:/Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/HOC_World/Level_HOC_world.umap"
+			]
+		}
+	]
+}
