@@ -5598,3 +5598,231 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.06.04-14.33.54:581][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.06.04-14.33.54:581][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.06.04-14.33.54:582][637]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.35.23:443][761]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.35.27:453][926]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-14.35.27:453][926]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-14.35.27:460][926]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_2
+[2026.06.04-14.35.27:467][926]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_2
+[2026.06.04-14.35.28:702][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.06.04-14.35.28:707][962]LogEditorActor: Deleted 0 Actors (0.060 secs)
+[2026.06.04-14.35.28:716][962]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-14.35.28:717][962]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-14.35.28:726][962]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_3
+[2026.06.04-14.35.28:734][962]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_3
+[2026.06.04-14.35.28:757][962]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_3.CheckpointTransform.
+[2026.06.04-14.35.35:956][270]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever_C
+[2026.06.04-14.35.35:956][270]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever_C
+[2026.06.04-14.35.35:965][270]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever as actor: BP_door_lever_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_door_lever_C_2
+[2026.06.04-14.35.35:974][270]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever as actor: BP_door_lever_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_door_lever_C_2
+[2026.06.04-14.35.37:487][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.06.04-14.35.37:493][319]LogEditorActor: Deleted 0 Actors (0.060 secs)
+[2026.06.04-14.35.37:501][319]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever_C
+[2026.06.04-14.35.37:501][319]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever_C
+[2026.06.04-14.35.37:506][319]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever as actor: BP_door_lever_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_door_lever_C_3
+[2026.06.04-14.35.37:516][319]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever as actor: BP_door_lever_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_door_lever_C_3
+[2026.06.04-14.35.39:263][399]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.35.41:251][490]LogPSOHitching: Encountered 550 PSO creation hitches so far (311 graphics, 239 compute). 0 of them were precached.
+[2026.06.04-14.36.12:203][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-14.36.12:332][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.06.04-14.36.12:398][930]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.36.12:398][930]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints13848C0444B103B9428372809A733CE5.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.36.12:410][930]LogFileHelpers: Saving map 'SubLevels_Blueprints' took 0.131
+[2026.06.04-14.36.12:424][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 221.254 ms (total: 2.62 sec)
+[2026.06.04-14.36.12:493][930]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.36.12:493][930]LogContentValidation: Enabled validators:
+[2026.06.04-14.36.12:493][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.36.12:493][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.36.12:493][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.36.12:493][930]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.36.12:493][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.36.12:493][930]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.36.12:493][930]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.36.54:477][826]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-14.36.54:477][826]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-14.36.54:482][826]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Key_activity_4_end_C_2
+[2026.06.04-14.36.54:487][826]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Key_activity_4_end_C_2
+[2026.06.04-14.36.55:785][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.06.04-14.36.55:790][875]LogEditorActor: Deleted 0 Actors (0.057 secs)
+[2026.06.04-14.36.55:797][875]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-14.36.55:797][875]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-14.36.55:805][875]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Key_activity_4_end_C_3
+[2026.06.04-14.36.55:810][875]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Key_activity_4_end_C_3
+[2026.06.04-14.36.56:777][917]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.37.11:116][551]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.37.26:746][253]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.37.26:746][253]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.37.26:751][253]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_4
+[2026.06.04-14.37.26:756][253]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_4
+[2026.06.04-14.37.27:756][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3204.178223
+[2026.06.04-14.37.27:943][295]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-14.37.27:944][295]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3204.345459, Update Interval: 346.134827
+[2026.06.04-14.37.28:207][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.06.04-14.37.28:213][305]LogEditorActor: Deleted 0 Actors (0.058 secs)
+[2026.06.04-14.37.28:221][305]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.37.28:221][305]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.37.28:227][305]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_5
+[2026.06.04-14.37.28:232][305]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_5
+[2026.06.04-14.37.31:362][445]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.37.40:843][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-14.37.40:964][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.06.04-14.37.41:026][895]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.37.41:026][895]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints679C78CA4661DAC31A90E383440D50A5.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.37.41:039][895]LogFileHelpers: Saving map 'SubLevels_Blueprints' took 0.127
+[2026.06.04-14.37.41:055][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 211.270 ms (total: 2.83 sec)
+[2026.06.04-14.37.41:125][895]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.37.41:125][895]LogContentValidation: Enabled validators:
+[2026.06.04-14.37.41:125][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.37.41:125][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.37.41:125][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.37.41:125][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.37.41:125][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.37.41:125][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.37.41:125][895]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.38.16:896][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.38.16:896][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.38.16:901][578]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_2
+[2026.06.04-14.38.16:906][578]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_2
+[2026.06.04-14.38.18:527][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.06.04-14.38.18:533][636]LogEditorActor: Deleted 0 Actors (0.056 secs)
+[2026.06.04-14.38.18:543][636]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.38.18:543][636]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.38.18:549][636]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_3
+[2026.06.04-14.38.18:553][636]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_3
+[2026.06.04-14.38.36:760][433]Cmd: TRANSACTION UNDO
+[2026.06.04-14.38.36:760][433]LogEditorTransaction: Undo Set Vector Property
+[2026.06.04-14.38.39:943][563]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.39.03:866][617]Cmd: DUPLICATE
+[2026.06.04-14.39.03:866][617]Cmd: ACTOR DUPLICATE
+[2026.06.04-14.39.03:887][617]LogClass: Warning: Short type name "BP_MovingPlatform_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffae07dca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0adc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0addad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a61d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a846c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae07b26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0b530db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a61d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a846c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.06.04-14.39.03:896][617]LogClass: Warning: Short type name "BP_MovingPlatform_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffae07dca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0adc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0addad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a61d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a846c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae07b26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0b530db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a61d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a846c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.06.04-14.39.12:183][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-14.39.12:322][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.06.04-14.39.12:394][968]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.39.12:395][968]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints64101E9D486C16B5011234818870D569.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.39.12:408][968]LogFileHelpers: Saving map 'SubLevels_Blueprints' took 0.145
+[2026.06.04-14.39.12:422][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 239.662 ms (total: 3.07 sec)
+[2026.06.04-14.39.12:495][968]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.39.12:495][968]LogContentValidation: Enabled validators:
+[2026.06.04-14.39.12:495][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.39.12:495][968]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.39.12:495][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.39.12:495][968]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.39.12:495][968]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.39.12:495][968]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.39.12:495][968]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.39.44:364][427]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.39.44:364][427]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.39.44:368][427]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_5
+[2026.06.04-14.39.44:373][427]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_5
+[2026.06.04-14.39.45:756][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.06.04-14.39.45:761][471]LogEditorActor: Deleted 0 Actors (0.060 secs)
+[2026.06.04-14.39.45:769][471]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.39.45:769][471]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.39.45:775][471]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_6
+[2026.06.04-14.39.45:781][471]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_6
+[2026.06.04-14.40.08:898][416]Cmd: DUPLICATE
+[2026.06.04-14.40.08:898][416]Cmd: ACTOR DUPLICATE
+[2026.06.04-14.40.08:918][416]LogClass: Warning: Short type name "BP_MovingPlatform_C_6" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffae07dca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0adc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0addad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a61d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a846c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae07b26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0b530db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a61d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a846c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.06.04-14.40.08:927][416]LogClass: Warning: Short type name "BP_MovingPlatform_C_6" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffae07dca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0adc187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0addad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a61d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a846c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae07b26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0b530db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a61d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffae0a846c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.06.04-14.40.14:503][655]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.40.41:107][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.06.04-14.40.41:174][808]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.40.41:175][808]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints7A13AF964E4AE1BF694871BBC552BD5E.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.40.41:274][808]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.40.41:274][808]LogContentValidation: Enabled validators:
+[2026.06.04-14.40.41:274][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.40.41:274][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.40.41:274][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.40.41:274][808]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.40.41:274][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.40.41:274][808]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.40.41:274][808]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.40.48:143][116]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-14.40.48:156][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-14.40.48:156][116]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.40.48:162][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006554s)
+[2026.06.04-14.40.48:162][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.006628s)
+[2026.06.04-14.40.48:214][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.06.04-14.40.48:216][116]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-14.40.48:261][116]LogPlayLevel: PIE: World Init took: (0.045380s)
+[2026.06.04-14.40.48:263][116]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.06.04-14.40.48:264][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-14.40.48:264][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-14.40.48:264][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-14.40.48:264][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-14.40.48:264][116]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-14.40.48:264][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-14.40.48:264][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-14.40.48:264][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-14.40.48:264][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-14.40.48:264][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-14.40.48:264][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-14.40.48:269][116]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-14.40.48:369][116]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-14.40.48:370][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-14.40.48:370][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-14.40.48:370][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-14.40.48:371][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.06.04-14.40.48:371][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.06.04-14.40.48:376][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.06.04-14.40.48:376][116]LogInit: FAudioDevice initialized with ID 27.
+[2026.06.04-14.40.48:376][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.06.04-14.40.48:376][116]LogAudio: Display: Audio Device (ID: 27) registered with world 'Level_HOC_world'.
+[2026.06.04-14.40.48:376][116]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.06.04-14.40.48:384][116]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-14.40.48:586][116]LogWorld: Bringing World /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2026.06.04-16.40.48
+[2026.06.04-14.40.48:587][116]LogWorld: Bringing up level for play took: 0.003233
+[2026.06.04-14.40.48:592][116]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.06.04-14.40.48:597][116]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Blueprints 1 1 0
+[2026.06.04-14.40.48:603][116]PIE: Server logged in
+[2026.06.04-14.40.48:607][116]PIE: Play in editor total start time 0,451 seconds.
+[2026.06.04-14.40.48:625][116]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Environment 1 1 0
+[2026.06.04-14.40.48:686][117]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Lighting 1 1 0
+[2026.06.04-14.40.48:867][119]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX 1 1 0
+[2026.06.04-14.40.48:967][119]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 89.19 ms
+[2026.06.04-14.40.50:355][120]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1368.64 ms
+[2026.06.04-14.40.51:736][121]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1362.08 ms
