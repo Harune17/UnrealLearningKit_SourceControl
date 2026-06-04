@@ -5826,3 +5826,426 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.06.04-14.40.48:967][119]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 89.19 ms
 [2026.06.04-14.40.50:355][120]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1368.64 ms
 [2026.06.04-14.40.51:736][121]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1362.08 ms
+[2026.06.04-14.42.41:611][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.42.41:611][332]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.42.41:631][332]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.42.41:632][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.42.41:632][332]LogWorld: UWorld::CleanupWorld for SubLevels_Lighting, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.42.41:632][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.42.41:632][332]LogWorld: UWorld::CleanupWorld for SubLevels_VFX, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.42.41:632][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.42.41:635][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-14.42.41:648][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.42.41:719][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.42.41:720][332]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.06.04-14.42.41:720][332]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2026.06.04-14.42.41:723][332]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2026.06.04-14.42.41:751][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.06.04-14.42.41:845][332]LogPSOHitching: Encountered 600 PSO creation hitches so far (337 graphics, 263 compute). 0 of them were precached.
+[2026.06.04-14.42.41:991][333]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.06.04-14.42.42:046][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.06.04-14.42.50:986][682]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.43.13:218][622]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.43.13:218][622]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.43.13:222][622]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_8
+[2026.06.04-14.43.13:226][622]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_8
+[2026.06.04-14.43.14:833][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.06.04-14.43.14:838][681]LogEditorActor: Deleted 0 Actors (0.057 secs)
+[2026.06.04-14.43.14:849][681]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.43.14:849][681]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.43.14:855][681]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_9
+[2026.06.04-14.43.14:860][681]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_9
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:789][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:790][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:790][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.16:790][766]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.131.60.132:54080, Sequence=0
+[2026.06.04-14.43.43:897][963]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.43.43:897][963]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.43.43:903][963]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_10
+[2026.06.04-14.43.43:907][963]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_10
+[2026.06.04-14.43.44:877][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.06.04-14.43.44:884][998]LogEditorActor: Deleted 0 Actors (0.062 secs)
+[2026.06.04-14.43.44:893][998]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.43.44:893][998]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.43.44:898][998]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_11
+[2026.06.04-14.43.44:902][998]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_11
+[2026.06.04-14.43.54:242][406]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3590.671387
+[2026.06.04-14.43.54:417][414]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-14.43.54:417][414]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3590.827393, Update Interval: 358.406921
+[2026.06.04-14.44.21:539][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-14.44.21:669][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.06.04-14.44.21:745][668]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.44.21:745][668]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints937C471847601CCF6AE5EF81B7E235AE.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.44.21:760][668]LogFileHelpers: Saving map 'SubLevels_Blueprints' took 0.149
+[2026.06.04-14.44.21:776][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 237.954 ms (total: 3.30 sec)
+[2026.06.04-14.44.21:841][668]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.44.21:841][668]LogContentValidation: Enabled validators:
+[2026.06.04-14.44.21:841][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.44.21:841][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.44.21:841][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.44.21:841][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.44.21:841][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.44.21:841][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.44.21:841][668]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.44.33:876][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-14.44.33:877][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-14.44.33:885][212]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_4
+[2026.06.04-14.44.33:891][212]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_4
+[2026.06.04-14.44.35:506][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.06.04-14.44.35:510][271]LogEditorActor: Deleted 0 Actors (0.055 secs)
+[2026.06.04-14.44.35:517][271]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-14.44.35:517][271]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-14.44.35:525][271]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_5
+[2026.06.04-14.44.35:534][271]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_5
+[2026.06.04-14.44.35:559][271]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_5.CheckpointTransform.
+[2026.06.04-14.44.41:237][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.06.04-14.44.41:303][524]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.44.41:304][524]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints8A89D1134064A701AA1B4196744C3267.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.44.41:405][524]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.44.41:405][524]LogContentValidation: Enabled validators:
+[2026.06.04-14.44.41:405][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.44.41:405][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.44.41:405][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.44.41:405][524]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.44.41:405][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.44.41:405][524]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.44.41:405][524]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.45.03:331][544]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c
+[2026.06.04-14.45.03:331][544]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c
+[2026.06.04-14.45.03:334][544]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c as actor: StaticMeshActor /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.StaticMeshActor_0
+[2026.06.04-14.45.07:115][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.06.04-14.45.07:120][714]LogEditorActor: Deleted 0 Actors (0.055 secs)
+[2026.06.04-14.45.07:132][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c
+[2026.06.04-14.45.07:132][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c
+[2026.06.04-14.45.07:136][714]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/MA_setDressing_c.MA_setDressing_c as actor: StaticMeshActor /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.StaticMeshActor_1
+[2026.06.04-14.45.08:233][760]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.45.27:505][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.04-14.45.27:556][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.06.04-14.45.27:561][652]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2026.06.04-14.45.28:975][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.06.04-14.45.29:263][699]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.45.29:264][699]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_EnvironmentAF56A8BF4BEB0966C46C7B87DBD22643.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.45.29:373][699]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.45.29:373][699]LogContentValidation: Enabled validators:
+[2026.06.04-14.45.29:373][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.45.29:373][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.45.29:373][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.45.29:373][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.45.29:373][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.45.29:373][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.45.29:374][699]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.45.29:931][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.06.04-14.45.30:012][718]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.45.30:013][718]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints7565D43E43291035D766FFAF81D878FF.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.45.30:109][718]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.45.30:109][718]LogContentValidation: Enabled validators:
+[2026.06.04-14.45.30:109][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.45.30:109][718]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.45.30:109][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.45.30:109][718]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.45.30:109][718]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.45.30:109][718]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.45.30:109][718]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.45.41:434][231]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.45.41:434][231]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.45.41:436][231]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M as actor: StaticMeshActor /Game/SubLevels/Maps/SubLevels_Environment.SubLevels_Environment:PersistentLevel.StaticMeshActor_1
+[2026.06.04-14.45.44:562][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.06.04-14.45.44:565][356]LogEditorActor: Deleted 0 Actors (0.054 secs)
+[2026.06.04-14.45.44:575][356]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.45.44:575][356]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.45.44:580][356]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M as actor: StaticMeshActor /Game/SubLevels/Maps/SubLevels_Environment.SubLevels_Environment:PersistentLevel.StaticMeshActor_2
+[2026.06.04-14.45.56:947][925]LogDerivedDataCache: C:/Users/florine.piquet/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.04-14.46.09:685][518]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.46.22:843][ 76]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.46.22:843][ 76]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.46.22:844][ 76]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M as actor: StaticMeshActor /Game/SubLevels/Maps/SubLevels_Environment.SubLevels_Environment:PersistentLevel.StaticMeshActor_4
+[2026.06.04-14.46.24:265][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2026.06.04-14.46.24:269][132]LogEditorActor: Deleted 0 Actors (0.056 secs)
+[2026.06.04-14.46.24:277][132]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.46.24:277][132]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.46.24:282][132]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M as actor: StaticMeshActor /Game/SubLevels/Maps/SubLevels_Environment.SubLevels_Environment:PersistentLevel.StaticMeshActor_5
+[2026.06.04-14.46.32:535][506]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.46.32:560][506]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.06.04-14.46.32:569][506]LogStreaming: Display: FlushAsyncLoading(505): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-14.46.32:589][506]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.06.04-14.46.32:607][506]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.06.04-14.46.32:618][506]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2026.06.04-14.46.32:640][506]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.06.04-14.46.32:642][506]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.06.04-14.46.34:222][506]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x21 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 80% occupied, 0 triangles, Floor_Mesh
+[2026.06.04-14.46.35:020][507]LogPSOHitching: Encountered 650 PSO creation hitches so far (372 graphics, 278 compute). 0 of them were precached.
+[2026.06.04-14.46.36:558][587]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.46.36:558][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.46.36:680][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.06.04-14.46.39:995][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.46.39:995][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.46.39:997][757]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M as actor: StaticMeshActor /Game/SubLevels/Maps/SubLevels_Environment.SubLevels_Environment:PersistentLevel.StaticMeshActor_6
+[2026.06.04-14.46.41:267][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.06.04-14.46.41:270][804]LogEditorActor: Deleted 0 Actors (0.054 secs)
+[2026.06.04-14.46.41:277][804]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.46.41:277][804]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M
+[2026.06.04-14.46.41:282][804]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_Platform_M.SM_Platform_M as actor: StaticMeshActor /Game/SubLevels/Maps/SubLevels_Environment.SubLevels_Environment:PersistentLevel.StaticMeshActor_7
+[2026.06.04-14.47.20:929][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-14.47.21:052][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.06.04-14.47.21:316][702]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.47.21:317][702]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_EnvironmentB02C25164E441A2C0D2985AC26D049F7.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.47.21:331][702]LogFileHelpers: Saving map 'SubLevels_Environment' took 0.331
+[2026.06.04-14.47.21:347][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 418.406 ms (total: 3.72 sec)
+[2026.06.04-14.47.21:422][702]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.47.21:422][702]LogContentValidation: Enabled validators:
+[2026.06.04-14.47.21:422][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.47.21:422][702]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.47.21:422][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.47.21:422][702]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.47.21:422][702]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.47.21:422][702]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.47.21:423][702]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.47.58:554][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-14.47.58:679][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.06.04-14.47.59:006][463]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.47.59:007][463]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_EnvironmentFAA3CA0D476FEE9694C71ABBD5141279.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.47.59:031][463]LogFileHelpers: Saving map 'SubLevels_Environment' took 0.408
+[2026.06.04-14.47.59:046][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 492.940 ms (total: 4.22 sec)
+[2026.06.04-14.47.59:121][463]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.47.59:121][463]LogContentValidation: Enabled validators:
+[2026.06.04-14.47.59:121][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.47.59:121][463]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.47.59:122][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.47.59:122][463]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.47.59:122][463]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.47.59:122][463]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.47.59:122][463]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.48.03:336][659]Cmd: DUPLICATE
+[2026.06.04-14.48.03:336][659]Cmd: ACTOR DUPLICATE
+[2026.06.04-14.48.09:494][939]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.48.16:495][263]Cmd: DUPLICATE
+[2026.06.04-14.48.16:495][263]Cmd: ACTOR DUPLICATE
+[2026.06.04-14.48.19:093][379]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.48.48:734][780]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.49.15:600][981]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.49.15:600][981]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.49.15:605][981]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_12
+[2026.06.04-14.49.15:609][981]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_12
+[2026.06.04-14.49.16:646][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.06.04-14.49.16:654][ 15]LogEditorActor: Deleted 0 Actors (0.062 secs)
+[2026.06.04-14.49.16:660][ 15]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.49.16:661][ 15]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.49.16:667][ 15]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_13
+[2026.06.04-14.49.16:672][ 15]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_13
+[2026.06.04-14.49.31:203][660]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.49.41:575][122]Cmd: TRANSACTION UNDO
+[2026.06.04-14.49.41:575][122]LogEditorTransaction: Undo Set Vector Property
+[2026.06.04-14.50.04:296][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-14.50.04:431][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.06.04-14.50.04:506][ 76]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.50.04:507][ 76]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints56699945452235DBD0D3B398A28FC2BC.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.50.04:518][ 76]LogFileHelpers: Saving map 'SubLevels_Blueprints' took 0.145
+[2026.06.04-14.50.04:532][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.829 ms (total: 4.45 sec)
+[2026.06.04-14.50.04:603][ 76]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.50.04:603][ 76]LogContentValidation: Enabled validators:
+[2026.06.04-14.50.04:603][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.50.04:603][ 76]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.50.04:603][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.50.04:603][ 76]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.50.04:603][ 76]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.50.04:604][ 76]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.50.04:604][ 76]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.50.10:791][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.04-14.50.11:067][366]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.50.11:068][366]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_EnvironmentAF14E0E742BE1714C31F0BA2A5AE0DBB.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.50.11:176][366]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.50.11:176][366]LogContentValidation: Enabled validators:
+[2026.06.04-14.50.11:176][366]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.50.11:176][366]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.50.11:176][366]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.50.11:176][366]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.50.11:176][366]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.50.11:176][366]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.50.11:177][366]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.50.16:877][615]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-14.50.16:877][615]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-14.50.16:883][615]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Key_activity_4_end_C_4
+[2026.06.04-14.50.16:888][615]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Key_activity_4_end_C_4
+[2026.06.04-14.50.18:243][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.06.04-14.50.18:247][662]LogEditorActor: Deleted 0 Actors (0.054 secs)
+[2026.06.04-14.50.18:255][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-14.50.18:255][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-14.50.18:262][662]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Key_activity_4_end_C_5
+[2026.06.04-14.50.18:266][662]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Key_activity_4_end_C_5
+[2026.06.04-14.50.23:789][891]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.50.23:789][891]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.50.23:795][891]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_6
+[2026.06.04-14.50.23:799][891]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_6
+[2026.06.04-14.50.24:752][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.06.04-14.50.24:757][921]LogEditorActor: Deleted 0 Actors (0.059 secs)
+[2026.06.04-14.50.24:764][921]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.50.24:764][921]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.50.24:771][921]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_7
+[2026.06.04-14.50.24:776][921]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_7
+[2026.06.04-14.50.33:874][325]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.50.33:874][325]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.50.33:879][325]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_9
+[2026.06.04-14.50.33:883][325]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_9
+[2026.06.04-14.50.34:999][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.06.04-14.50.35:004][361]LogEditorActor: Deleted 0 Actors (0.057 secs)
+[2026.06.04-14.50.35:011][361]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.50.35:011][361]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.50.35:016][361]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_10
+[2026.06.04-14.50.35:023][361]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_10
+[2026.06.04-14.50.43:859][750]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4000.281738
+[2026.06.04-14.50.44:052][759]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-14.50.44:052][759]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4000.452637, Update Interval: 316.718048
+[2026.06.04-14.50.45:769][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-14.50.45:891][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.06.04-14.50.45:970][843]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.50.45:970][843]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_BlueprintsE0B455A7458BAEF47D205589C8084114.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.50.45:980][843]LogFileHelpers: Saving map 'SubLevels_Blueprints' took 0.143
+[2026.06.04-14.50.45:994][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.541 ms (total: 4.68 sec)
+[2026.06.04-14.50.46:070][843]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.50.46:070][843]LogContentValidation: Enabled validators:
+[2026.06.04-14.50.46:070][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.50.46:070][843]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.50.46:070][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.50.46:070][843]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.50.46:071][843]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.50.46:071][843]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.50.46:071][843]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.51.03:227][658]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-14.51.03:241][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-14.51.03:241][658]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.51.03:247][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005745s)
+[2026.06.04-14.51.03:247][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.005818s)
+[2026.06.04-14.51.03:295][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.06.04-14.51.03:297][658]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-14.51.03:342][658]LogPlayLevel: PIE: World Init took: (0.044240s)
+[2026.06.04-14.51.03:344][658]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2026.06.04-14.51.03:344][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-14.51.03:344][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-14.51.03:344][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-14.51.03:344][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-14.51.03:344][658]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-14.51.03:344][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-14.51.03:344][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-14.51.03:344][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-14.51.03:344][658]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-14.51.03:344][658]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-14.51.03:344][658]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-14.51.03:348][658]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-14.51.03:443][658]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-14.51.03:444][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-14.51.03:444][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-14.51.03:444][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-14.51.03:445][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2026.06.04-14.51.03:445][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2026.06.04-14.51.03:449][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2026.06.04-14.51.03:449][658]LogInit: FAudioDevice initialized with ID 28.
+[2026.06.04-14.51.03:449][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2026.06.04-14.51.03:449][658]LogAudio: Display: Audio Device (ID: 28) registered with world 'Level_HOC_world'.
+[2026.06.04-14.51.03:449][658]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2026.06.04-14.51.03:461][658]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-14.51.03:670][658]LogWorld: Bringing World /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2026.06.04-16.51.03
+[2026.06.04-14.51.03:672][658]LogWorld: Bringing up level for play took: 0.002656
+[2026.06.04-14.51.03:676][658]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2026.06.04-14.51.03:681][658]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Blueprints 1 1 0
+[2026.06.04-14.51.03:687][658]PIE: Server logged in
+[2026.06.04-14.51.03:690][658]PIE: Play in editor total start time 0,45 seconds.
+[2026.06.04-14.51.03:709][658]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Environment 1 1 0
+[2026.06.04-14.51.03:777][659]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Lighting 1 1 0
+[2026.06.04-14.51.03:934][661]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX 1 1 0
+[2026.06.04-14.51.04:037][661]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 94.33 ms
+[2026.06.04-14.51.05:406][662]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1350.95 ms
+[2026.06.04-14.51.06:769][663]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1344.27 ms
+[2026.06.04-14.51.58:421][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.51.58:421][352]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.51.58:425][352]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.51.58:437][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.51.58:439][352]LogWorld: UWorld::CleanupWorld for SubLevels_Environment, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.51.58:439][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.51.58:442][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-14.51.58:454][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.51.58:521][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.51.58:521][352]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2026.06.04-14.51.58:522][352]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2026.06.04-14.51.58:525][352]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2026.06.04-14.51.58:550][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.06.04-14.51.58:632][353]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2026.06.04-14.51.58:687][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.06.04-14.52.10:072][862]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.52.22:709][419]Cmd: TRANSACTION UNDO
+[2026.06.04-14.52.22:709][419]LogEditorTransaction: Undo Rotate Elements
+[2026.06.04-14.52.28:122][636]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.52.47:006][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.06.04-14.52.47:087][478]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.52.47:087][478]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints2158590948BD6DCF37B827AD368E7A71.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.52.47:185][478]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.52.47:185][478]LogContentValidation: Enabled validators:
+[2026.06.04-14.52.47:185][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.52.47:185][478]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.52.47:185][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.52.47:185][478]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.52.47:185][478]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.52.47:185][478]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.52.47:185][478]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
