@@ -4508,3 +4508,1093 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.06.04-14.13.17:085][170]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1753.504272
 [2026.06.04-14.13.17:256][184]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.06.04-14.13.17:256][184]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1753.663574, Update Interval: 327.144379
+[2026.06.04-14.14.42:420][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.06.04-14.14.43:631][516]LogSlate: Window 'Save Content' being destroyed
+[2026.06.04-14.14.43:653][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-14.14.43:773][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.06.04-14.14.43:826][516]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.14.43:827][516]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_BlueprintsA7DF39184C12DF124023FBA87B33EB48.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.14.43:838][516]LogFileHelpers: Saving map 'SubLevels_Blueprints' took 0.116
+[2026.06.04-14.14.43:852][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.833 ms (total: 1.26 sec)
+[2026.06.04-14.14.43:935][516]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.14.43:935][516]LogContentValidation: Enabled validators:
+[2026.06.04-14.14.43:935][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.14.43:935][516]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.14.43:935][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.14.43:935][516]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.14.43:935][516]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.14.43:935][516]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.14.43:936][516]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.14.55:544][ 64]LogPSOHitching: Encountered 350 PSO creation hitches so far (188 graphics, 162 compute). 0 of them were precached.
+[2026.06.04-14.15.29:342][616]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-14.15.29:381][616]LogStaticMesh: Display: Building static mesh SM_Powerup_01_Shard01 (Required Memory Estimate: 0.636744 MB)...
+[2026.06.04-14.15.29:381][616]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave SFX_Chime_07B...
+[2026.06.04-14.15.29:402][616]LogAudioDerivedData: Display: SFX_Chime_07B compressed to 13.20% (from 352KB to 46KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.06.04-14.15.29:404][616]LogAudio: Display: Chunk stats for (SoundWave /Game/LearningKit_Games/Assets/SFX/SFX_Chime_07B.SFX_Chime_07B: Duration=2.02 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=47701 bytes, ChunkN=0)
+[2026.06.04-14.15.29:436][616]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.06.04-14.15.29:592][618]LogStaticMesh: Built static mesh [0.22s] /Game/LearningKit_Games/Assets/Props/Powerups/Powerup_A/SM_Powerup_01_Shard01.SM_Powerup_01_Shard01
+[2026.06.04-14.15.29:642][618]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-14.15.29:642][618]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-14.15.29:645][618]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Key_activity_4_end_C_0
+[2026.06.04-14.15.29:650][618]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Key_activity_4_end_C_0
+[2026.06.04-14.15.29:660][618]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.06.04-14.15.35:544][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.06.04-14.15.35:596][870]LogEditorActor: Deleted 0 Actors (0.105 secs)
+[2026.06.04-14.15.35:607][870]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-14.15.35:607][870]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end_C
+[2026.06.04-14.15.35:615][870]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Key_activity_4_end_C_1
+[2026.06.04-14.15.35:619][870]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Key_activity_4_end.BP_Key_activity_4_end as actor: BP_Key_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Key_activity_4_end_C_1
+[2026.06.04-14.15.40:697][105]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.16.03:242][145]LogPSOHitching: Encountered 400 PSO creation hitches so far (219 graphics, 181 compute). 0 of them were precached.
+[2026.06.04-14.16.19:917][872]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever_C
+[2026.06.04-14.16.19:917][872]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever_C
+[2026.06.04-14.16.19:927][872]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever as actor: BP_door_lever_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_door_lever_C_0
+[2026.06.04-14.16.19:936][872]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever as actor: BP_door_lever_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_door_lever_C_0
+[2026.06.04-14.16.21:393][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2026.06.04-14.16.21:398][919]LogEditorActor: Deleted 0 Actors (0.060 secs)
+[2026.06.04-14.16.21:406][919]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever_C
+[2026.06.04-14.16.21:406][919]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever_C
+[2026.06.04-14.16.21:415][919]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever as actor: BP_door_lever_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_door_lever_C_1
+[2026.06.04-14.16.21:425][919]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_door_lever.BP_door_lever as actor: BP_door_lever_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_door_lever_C_1
+[2026.06.04-14.16.47:208][ 95]LogStreaming: Display: FlushAsyncLoading(501): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-14.16.47:248][ 95]LogStaticMesh: Display: Building static mesh SM_Button_A_Push (Required Memory Estimate: 0.533737 MB)...
+[2026.06.04-14.16.47:255][ 95]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave SFX_Chime_03A...
+[2026.06.04-14.16.47:272][ 95]LogAudioDerivedData: Display: SFX_Chime_03A compressed to 7.99% (from 340KB to 27KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.06.04-14.16.47:273][ 95]LogAudio: Display: Chunk stats for (SoundWave /Game/LearningKit_Games/Assets/SFX/SFX_Chime_03A.SFX_Chime_03A: Duration=1.95 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=27877 bytes, ChunkN=0)
+[2026.06.04-14.16.47:320][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.06.04-14.16.47:380][ 95]LogStaticMesh: Built static mesh [0.13s] /Game/LearningKit_Games/Assets/Props/Buttons/Button_A/SM_Button_A_Push.SM_Button_A_Push
+[2026.06.04-14.16.47:441][ 96]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-14.16.47:441][ 96]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-14.16.47:451][ 96]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_0
+[2026.06.04-14.16.47:459][ 96]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_0
+[2026.06.04-14.16.49:922][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2026.06.04-14.16.49:947][167]LogEditorActor: Deleted 0 Actors (0.087 secs)
+[2026.06.04-14.16.49:954][167]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-14.16.49:954][167]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint_C
+[2026.06.04-14.16.49:963][167]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_1
+[2026.06.04-14.16.49:970][167]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_checkpoint.BP_checkpoint as actor: BP_checkpoint_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_1
+[2026.06.04-14.16.49:995][167]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring PaperSpriteComponent /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_checkpoint_C_1.CheckpointTransform.
+[2026.06.04-14.16.53:890][335]LogStreaming: Display: FlushAsyncLoading(502): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-14.16.53:931][335]LogStaticMesh: Display: Building static mesh SM_Platform_M_coll (Required Memory Estimate: 2.653732 MB)...
+[2026.06.04-14.16.53:963][335]LogStaticMesh: Built static mesh [0.03s] /Game/Hour_of_Code/Static_Meshes/SM_Platform_M_coll.SM_Platform_M_coll
+[2026.06.04-14.16.53:988][335]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.06.04-14.16.54:143][337]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.16.54:143][337]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.16.54:147][337]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_0
+[2026.06.04-14.16.54:152][337]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_0
+[2026.06.04-14.16.56:245][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.06.04-14.16.56:272][411]LogEditorActor: Deleted 0 Actors (0.079 secs)
+[2026.06.04-14.16.56:280][411]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.16.56:280][411]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C
+[2026.06.04-14.16.56:286][411]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_1
+[2026.06.04-14.16.56:291][411]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_MovingPlatform.BP_MovingPlatform as actor: BP_MovingPlatform_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_MovingPlatform_C_1
+[2026.06.04-14.16.57:378][457]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.17.09:006][986]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.17.12:079][124]Cmd: DELETE
+[2026.06.04-14.17.12:080][124]Cmd: ACTOR DELETE
+[2026.06.04-14.17.12:105][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.04-14.17.12:156][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.06.04-14.17.12:161][124]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2026.06.04-14.17.14:268][238]Cmd: TRANSACTION UNDO
+[2026.06.04-14.17.14:268][238]LogEditorTransaction: Undo Delete Elements
+[2026.06.04-14.17.50:825][862]Cmd: TRANSACTION UNDO
+[2026.06.04-14.17.50:825][862]LogEditorTransaction: Undo Set Vector Property
+[2026.06.04-14.17.54:948][ 20]Cmd: TRANSACTION UNDO
+[2026.06.04-14.17.54:949][ 20]LogEditorTransaction: Undo Set Vector Property
+[2026.06.04-14.18.05:231][464]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-14.18.05:242][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-14.18.05:243][464]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.18.05:249][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006305s)
+[2026.06.04-14.18.05:249][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.006389s)
+[2026.06.04-14.18.05:302][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.06.04-14.18.05:310][464]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-14.18.05:363][464]LogPlayLevel: PIE: World Init took: (0.052558s)
+[2026.06.04-14.18.05:365][464]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.06.04-14.18.05:365][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-14.18.05:365][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-14.18.05:365][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-14.18.05:365][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-14.18.05:365][464]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-14.18.05:365][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-14.18.05:365][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-14.18.05:365][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-14.18.05:365][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-14.18.05:365][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-14.18.05:365][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-14.18.05:371][464]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-14.18.05:461][464]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-14.18.05:462][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-14.18.05:462][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-14.18.05:462][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-14.18.05:463][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.06.04-14.18.05:463][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.06.04-14.18.05:472][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.06.04-14.18.05:472][464]LogInit: FAudioDevice initialized with ID 17.
+[2026.06.04-14.18.05:472][464]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level_HOC_world'.
+[2026.06.04-14.18.05:472][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.06.04-14.18.05:472][464]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.04-14.18.05:481][464]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-14.18.05:506][464]LogWorld: Bringing World /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2026.06.04-16.18.05
+[2026.06.04-14.18.05:508][464]LogWorld: Bringing up level for play took: 0.001858
+[2026.06.04-14.18.05:511][464]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.06.04-14.18.05:517][464]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Blueprints 1 1 0
+[2026.06.04-14.18.05:521][464]PIE: Server logged in
+[2026.06.04-14.18.05:525][464]PIE: Play in editor total start time 0,284 seconds.
+[2026.06.04-14.18.05:530][464]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Environment 1 1 0
+[2026.06.04-14.18.06:120][475]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Lighting 1 1 0
+[2026.06.04-14.18.06:142][476]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX 1 1 0
+[2026.06.04-14.18.06:204][476]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 50.41 ms
+[2026.06.04-14.18.07:676][477]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1455.30 ms
+[2026.06.04-14.18.09:074][478]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1380.49 ms
+[2026.06.04-14.18.16:228][877]LogCharacterMovement: BP_HourOfCode_Character_C_0 is stuck and failed to move! Velocity: X=174.67 Y=24.83 Z=0.00 Location: X=-2931.63 Y=-3082.59 Z=309.00 Normal: X=-0.00 Y=-0.00 Z=-1.00 PenetrationDepth:18.291 Actor:SM_Kit_Wall_Straight251_0 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2026.06.04-14.18.24:652][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.18.24:652][318]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.18.24:671][318]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.18.24:672][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.18.24:672][318]LogWorld: UWorld::CleanupWorld for SubLevels_VFX, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.18.24:672][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.18.24:675][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-14.18.24:689][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.18.24:752][318]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.04-14.18.24:755][318]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.04-14.18.24:755][318]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.06.04-14.18.24:758][318]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.06.04-14.18.24:764][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.18.24:783][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.06.04-14.18.24:869][319]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.06.04-14.18.24:925][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.06.04-14.18.46:426][294]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-14.18.46:439][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-14.18.46:439][294]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.18.46:446][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006548s)
+[2026.06.04-14.18.46:446][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.006615s)
+[2026.06.04-14.18.46:498][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.06.04-14.18.46:503][294]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-14.18.46:543][294]LogPlayLevel: PIE: World Init took: (0.041270s)
+[2026.06.04-14.18.46:545][294]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.06.04-14.18.46:545][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-14.18.46:545][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-14.18.46:545][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-14.18.46:545][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-14.18.46:545][294]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-14.18.46:545][294]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-14.18.46:545][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-14.18.46:545][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-14.18.46:546][294]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-14.18.46:546][294]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-14.18.46:546][294]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-14.18.46:551][294]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-14.18.46:638][294]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-14.18.46:638][294]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-14.18.46:638][294]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-14.18.46:638][294]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-14.18.46:638][294]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.06.04-14.18.46:638][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.06.04-14.18.46:644][294]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.06.04-14.18.46:644][294]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.06.04-14.18.46:644][294]LogInit: FAudioDevice initialized with ID 18.
+[2026.06.04-14.18.46:644][294]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level_HOC_world'.
+[2026.06.04-14.18.46:644][294]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.06.04-14.18.46:652][294]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-14.18.46:676][294]LogWorld: Bringing World /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2026.06.04-16.18.46
+[2026.06.04-14.18.46:677][294]LogWorld: Bringing up level for play took: 0.001671
+[2026.06.04-14.18.46:681][294]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.06.04-14.18.46:686][294]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Blueprints 1 1 0
+[2026.06.04-14.18.46:688][294]PIE: Server logged in
+[2026.06.04-14.18.46:692][294]PIE: Play in editor total start time 0,253 seconds.
+[2026.06.04-14.18.46:696][294]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Environment 1 1 0
+[2026.06.04-14.18.47:131][304]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Lighting 1 1 0
+[2026.06.04-14.18.47:152][305]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX 1 1 0
+[2026.06.04-14.18.48:559][305]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1392.11 ms
+[2026.06.04-14.18.49:951][306]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1374.14 ms
+[2026.06.04-14.18.53:000][468]LogCharacterMovement: BP_HourOfCode_Character_C_0 is stuck and failed to move! Velocity: X=35.14 Y=-1.03 Z=0.00 Location: X=-2940.00 Y=-3083.78 Z=309.79 Normal: X=-0.00 Y=-0.00 Z=-1.00 PenetrationDepth:19.081 Actor:SM_Kit_Wall_Straight251_0 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2026.06.04-14.19.00:851][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.19.00:852][867]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.19.00:873][867]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.19.00:874][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.19.00:874][867]LogWorld: UWorld::CleanupWorld for SubLevels_Lighting, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.19.00:874][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.19.00:876][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-14.19.00:889][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.19.00:953][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.19.00:953][867]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.06.04-14.19.00:953][867]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.06.04-14.19.00:956][867]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.06.04-14.19.00:981][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.06.04-14.19.01:073][868]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.06.04-14.19.01:129][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.06.04-14.19.03:850][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.06.04-14.19.03:908][985]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.19.03:909][985]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints6408A0DA47F9D5E96DC5D698A01FCEE2.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.19.04:002][985]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.19.04:002][985]LogContentValidation: Enabled validators:
+[2026.06.04-14.19.04:002][985]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.19.04:002][985]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.19.04:002][985]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.19.04:002][985]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.19.04:002][985]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.19.04:002][985]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.19.04:002][985]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.19.20:800][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2117.220215
+[2026.06.04-14.19.20:972][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-14.19.20:972][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2117.371338, Update Interval: 328.345581
+[2026.06.04-14.19.22:097][824]Cmd: DELETE
+[2026.06.04-14.19.22:097][824]Cmd: ACTOR DELETE
+[2026.06.04-14.19.22:122][824]LogEditorActor: Deleted Actor: BP_MovingPlatform_C
+[2026.06.04-14.19.22:176][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.06.04-14.19.22:180][824]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2026.06.04-14.19.27:634][ 82]LogPSOHitching: Encountered 450 PSO creation hitches so far (253 graphics, 197 compute). 0 of them were precached.
+[2026.06.04-14.19.34:068][378]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.19.39:938][634]Cmd: TRANSACTION UNDO
+[2026.06.04-14.19.39:938][634]LogEditorTransaction: Undo Clicking on Elements
+[2026.06.04-14.19.46:027][879]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.04-14.19.46:030][879]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.04-14.19.46:080][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.06.04-14.19.46:085][879]LogEditorActor: Deleted 2 Actors (0.062 secs)
+[2026.06.04-14.19.48:282][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.06.04-14.19.48:556][963]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.19.48:557][963]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Environment263CF8DA436B57D49114879B7EB65E6F.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.19.48:666][963]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.19.48:666][963]LogContentValidation: Enabled validators:
+[2026.06.04-14.19.48:666][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.19.48:666][963]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.19.48:666][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.19.48:666][963]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.19.48:666][963]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.19.48:666][963]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.19.48:667][963]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.19.50:331][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.06.04-14.19.50:391][ 36]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.19.50:392][ 36]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints1DEEBC39477E27B9E69515BED8E3E75D.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.19.50:484][ 36]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.19.50:484][ 36]LogContentValidation: Enabled validators:
+[2026.06.04-14.19.50:484][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.19.50:484][ 36]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.19.50:484][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.19.50:484][ 36]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.19.50:484][ 36]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.19.50:484][ 36]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.19.50:484][ 36]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.20.03:485][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.06.04-14.20.03:761][567]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.20.03:761][567]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_EnvironmentE32CED62448401FD501A368C49DDA05E.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.20.06:866][567]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.20.06:866][567]LogContentValidation: Enabled validators:
+[2026.06.04-14.20.06:866][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.20.06:866][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.20.06:866][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.20.06:866][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.20.06:866][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.20.06:866][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.20.06:867][567]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.20.08:581][652]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-14.20.08:594][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-14.20.08:594][652]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.20.08:600][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006411s)
+[2026.06.04-14.20.08:600][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.006472s)
+[2026.06.04-14.20.08:652][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.06.04-14.20.08:657][652]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-14.20.08:702][652]LogPlayLevel: PIE: World Init took: (0.044232s)
+[2026.06.04-14.20.08:703][652]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.06.04-14.20.08:703][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-14.20.08:703][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-14.20.08:703][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-14.20.08:703][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-14.20.08:703][652]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-14.20.08:703][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-14.20.08:703][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-14.20.08:703][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-14.20.08:703][652]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-14.20.08:703][652]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-14.20.08:703][652]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-14.20.08:709][652]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-14.20.08:804][652]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-14.20.08:804][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-14.20.08:804][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-14.20.08:804][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-14.20.08:808][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.06.04-14.20.08:808][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.06.04-14.20.08:811][652]LogInit: FAudioDevice initialized with ID 19.
+[2026.06.04-14.20.08:811][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.06.04-14.20.08:811][652]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level_HOC_world'.
+[2026.06.04-14.20.08:811][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.06.04-14.20.08:811][652]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.06.04-14.20.08:818][652]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-14.20.09:020][652]LogWorld: Bringing World /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2026.06.04-16.20.09
+[2026.06.04-14.20.09:021][652]LogWorld: Bringing up level for play took: 0.003179
+[2026.06.04-14.20.09:025][652]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.06.04-14.20.09:031][652]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Blueprints 1 1 0
+[2026.06.04-14.20.09:035][652]PIE: Server logged in
+[2026.06.04-14.20.09:039][652]PIE: Play in editor total start time 0,445 seconds.
+[2026.06.04-14.20.09:056][652]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Environment 1 1 0
+[2026.06.04-14.20.09:114][653]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Lighting 1 1 0
+[2026.06.04-14.20.09:170][655]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX 1 1 0
+[2026.06.04-14.20.10:544][656]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1336.99 ms
+[2026.06.04-14.20.11:923][657]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1360.71 ms
+[2026.06.04-14.20.23:711][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.20.23:711][290]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.20.23:734][290]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.20.23:734][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.20.23:737][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-14.20.23:748][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.20.23:817][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.20.23:817][290]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.06.04-14.20.23:818][290]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.06.04-14.20.23:819][290]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.06.04-14.20.23:847][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.06.04-14.20.23:904][291]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.06.04-14.20.23:963][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.06.04-14.20.28:978][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.06.04-14.20.29:244][520]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.20.29:245][520]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Environment9824FE6E4F7AD969850ABBACFA608F63.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.20.29:365][520]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.20.29:365][520]LogContentValidation: Enabled validators:
+[2026.06.04-14.20.29:365][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.20.29:365][520]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.20.29:365][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.20.29:365][520]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.20.29:365][520]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.20.29:365][520]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.20.29:366][520]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.21.09:762][314]LogStreaming: Display: FlushAsyncLoading(503): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-14.21.09:806][314]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave SFX_Chime_03B...
+[2026.06.04-14.21.09:817][314]LogAudioDerivedData: Display: SFX_Chime_03B compressed to 11.43% (from 181KB to 20KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.06.04-14.21.09:818][314]LogAudio: Display: Chunk stats for (SoundWave /Game/LearningKit_Games/Assets/SFX/SFX_Chime_03B.SFX_Chime_03B: Duration=1.03 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=21235 bytes, ChunkN=0)
+[2026.06.04-14.21.09:820][314]LogStaticMesh: Display: Building static mesh SM_Collectible_Common (Required Memory Estimate: 2.911188 MB)...
+[2026.06.04-14.21.09:830][314]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Props/Collectibles/Common/Texture/T_Collectible_Common_ARM.T_Collectible_Common_ARM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 80.083323 MB), EncodeSpeed: Fast
+[2026.06.04-14.21.09:835][314]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Props/Collectibles/Common/Texture/T_Collectible_Common_BC.T_Collectible_Common_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 80.083323 MB), EncodeSpeed: Fast
+[2026.06.04-14.21.09:869][314]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.06.04-14.21.10:106][321]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2026.06.04-14.21.10:106][321]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2026.06.04-14.21.10:111][321]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/SubLevels/Maps/SubLevels_Environment.SubLevels_Environment:PersistentLevel.BP_coin_C_0
+[2026.06.04-14.21.10:115][321]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/SubLevels/Maps/SubLevels_Environment.SubLevels_Environment:PersistentLevel.BP_coin_C_0
+[2026.06.04-14.21.10:694][338]LogStaticMesh: Built static mesh [0.87s] /Game/LearningKit_Games/Assets/Props/Collectibles/Common/SM_Collectible_Common.SM_Collectible_Common
+[2026.06.04-14.21.11:957][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.06.04-14.21.12:012][384]LogEditorActor: Deleted 0 Actors (0.108 secs)
+[2026.06.04-14.21.12:039][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2026.06.04-14.21.12:039][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2026.06.04-14.21.12:047][384]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/SubLevels/Maps/SubLevels_Environment.SubLevels_Environment:PersistentLevel.BP_coin_C_1
+[2026.06.04-14.21.12:053][384]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/SubLevels/Maps/SubLevels_Environment.SubLevels_Environment:PersistentLevel.BP_coin_C_1
+[2026.06.04-14.21.22:169][803]Cmd: TRANSACTION UNDO
+[2026.06.04-14.21.22:169][803]LogEditorTransaction: Undo Move Elements
+[2026.06.04-14.21.24:204][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.06.04-14.21.24:485][871]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.21.24:486][871]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Environment899F32074994F3CC45FFD59E5552A784.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.21.24:605][871]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.21.24:605][871]LogContentValidation: Enabled validators:
+[2026.06.04-14.21.24:605][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.21.24:605][871]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.21.24:605][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.21.24:605][871]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.21.24:605][871]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.21.24:605][871]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.21.24:606][871]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.21.28:769][ 47]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2026.06.04-14.21.28:769][ 47]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2026.06.04-14.21.28:773][ 47]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_coin_C_0
+[2026.06.04-14.21.28:779][ 47]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_coin_C_0
+[2026.06.04-14.21.31:026][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.06.04-14.21.31:030][138]LogEditorActor: Deleted 0 Actors (0.054 secs)
+[2026.06.04-14.21.31:054][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2026.06.04-14.21.31:054][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2026.06.04-14.21.31:060][138]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_coin_C_1
+[2026.06.04-14.21.31:066][138]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_coin_C_1
+[2026.06.04-14.21.48:124][927]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.21.57:370][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.06.04-14.21.57:635][349]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.21.57:636][349]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Environment4FAC646E45548D8B1E8E6886B20A0F99.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.21.57:733][349]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.21.57:734][349]LogContentValidation: Enabled validators:
+[2026.06.04-14.21.57:734][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.21.57:734][349]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.21.57:734][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.21.57:734][349]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.21.57:734][349]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.21.57:734][349]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.21.57:734][349]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.22.05:633][703]LogEditorActor: Deleted Actor: BP_coin_C
+[2026.06.04-14.22.05:683][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2026.06.04-14.22.05:687][703]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2026.06.04-14.22.22:382][473]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.22.53:942][869]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.04-14.22.53:944][869]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.04-14.22.53:946][869]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.04-14.22.54:002][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.06.04-14.22.54:008][869]LogEditorActor: Deleted 3 Actors (0.070 secs)
+[2026.06.04-14.22.57:929][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.06.04-14.22.57:962][ 36]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world
+[2026.06.04-14.22.57:962][ 36]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/Level_HOC_world536E73E04C9BED1240C022A43F6F0AB7.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/Hour_of_Code/Maps/HOC_World/Level_HOC_world.umap'
+[2026.06.04-14.22.57:976][ 36]LogFileHelpers: All files are already saved.
+[2026.06.04-14.22.58:067][ 36]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.22.58:067][ 36]LogContentValidation: Enabled validators:
+[2026.06.04-14.22.58:067][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.22.58:067][ 36]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.22.58:067][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.22.58:067][ 36]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.22.58:067][ 36]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.22.58:067][ 36]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.22.58:068][ 36]AssetCheck: /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world Validating asset
+[2026.06.04-14.22.58:863][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.06.04-14.22.58:922][ 67]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.22.58:923][ 67]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_BlueprintsE933D67E427F13ECC87F0A94F5684320.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.22.59:032][ 67]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.22.59:032][ 67]LogContentValidation: Enabled validators:
+[2026.06.04-14.22.59:032][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.22.59:032][ 67]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.22.59:032][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.22.59:032][ 67]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.22.59:032][ 67]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.22.59:033][ 67]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.22.59:033][ 67]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.22.59:217][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.04-14.22.59:482][ 69]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.22.59:483][ 69]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Environment08F9B93042372B197D83548F9E87F9C8.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.22.59:585][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.22.59:585][ 69]LogContentValidation: Enabled validators:
+[2026.06.04-14.22.59:585][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.22.59:585][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.22.59:585][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.22.59:585][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.22.59:585][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.22.59:585][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.22.59:586][ 69]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.22.59:884][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.06.04-14.23.00:168][ 76]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.23.00:177][ 76]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Environment7BD069B34739CA05A11429A0D0BAC552.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.23.00:284][ 76]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.23.00:284][ 76]LogContentValidation: Enabled validators:
+[2026.06.04-14.23.00:284][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.23.00:284][ 76]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.23.00:284][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.23.00:284][ 76]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.23.00:284][ 76]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.23.00:284][ 76]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.23.00:285][ 76]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.23.24:986][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.06.04-14.23.25:271][216]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.23.25:272][216]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_EnvironmentAF2C54A243FE7B31D74E0FA894262365.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.23.25:382][216]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.23.25:383][216]LogContentValidation: Enabled validators:
+[2026.06.04-14.23.25:383][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.23.25:383][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.23.25:383][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.23.25:383][216]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.23.25:383][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.23.25:383][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.23.25:383][216]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.23.53:937][521]LogStreaming: Display: FlushAsyncLoading(504): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-14.23.53:992][521]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave SFX_Chime_01A...
+[2026.06.04-14.23.54:005][521]LogAudioDerivedData: Display: SFX_Chime_01A compressed to 8.04% (from 250KB to 20KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.06.04-14.23.54:005][521]LogAudio: Display: Chunk stats for (SoundWave /Game/LearningKit_Games/Assets/SFX/SFX_Chime_01A.SFX_Chime_01A: Duration=1.43 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=20661 bytes, ChunkN=0)
+[2026.06.04-14.23.54:051][521]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.06.04-14.23.54:265][523]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.23.54:265][523]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.23.54:269][523]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_0
+[2026.06.04-14.23.54:275][523]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_0
+[2026.06.04-14.24.00:685][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.06.04-14.24.00:736][779]LogEditorActor: Deleted 0 Actors (0.102 secs)
+[2026.06.04-14.24.00:742][779]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.24.00:742][779]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.24.00:749][779]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_1
+[2026.06.04-14.24.00:754][779]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_1
+[2026.06.04-14.24.04:451][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.06.04-14.24.04:516][938]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.24.04:517][938]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_BlueprintsBAC8C6B248986436F0C4C9A968A18E9A.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.24.04:616][938]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.24.04:616][938]LogContentValidation: Enabled validators:
+[2026.06.04-14.24.04:616][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.24.04:616][938]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.24.04:616][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.24.04:616][938]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.24.04:616][938]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.24.04:616][938]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.24.04:616][938]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.24.05:360][971]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-14.24.05:374][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-14.24.05:374][971]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.24.05:381][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006243s)
+[2026.06.04-14.24.05:381][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.006317s)
+[2026.06.04-14.24.05:434][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.06.04-14.24.05:436][971]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-14.24.05:479][971]LogPlayLevel: PIE: World Init took: (0.043147s)
+[2026.06.04-14.24.05:480][971]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.06.04-14.24.05:480][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-14.24.05:480][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-14.24.05:480][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-14.24.05:480][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-14.24.05:480][971]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-14.24.05:480][971]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-14.24.05:481][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-14.24.05:481][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-14.24.05:481][971]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-14.24.05:481][971]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-14.24.05:481][971]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-14.24.05:488][971]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-14.24.05:574][971]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-14.24.05:575][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-14.24.05:575][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-14.24.05:576][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-14.24.05:576][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.06.04-14.24.05:576][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.06.04-14.24.05:580][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.06.04-14.24.05:581][971]LogInit: FAudioDevice initialized with ID 20.
+[2026.06.04-14.24.05:581][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.06.04-14.24.05:581][971]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level_HOC_world'.
+[2026.06.04-14.24.05:581][971]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.06.04-14.24.05:590][971]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-14.24.05:800][971]LogWorld: Bringing World /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2026.06.04-16.24.05
+[2026.06.04-14.24.05:802][971]LogWorld: Bringing up level for play took: 0.003371
+[2026.06.04-14.24.05:806][971]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.06.04-14.24.05:811][971]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Blueprints 1 1 0
+[2026.06.04-14.24.05:816][971]PIE: Server logged in
+[2026.06.04-14.24.05:819][971]PIE: Play in editor total start time 0,445 seconds.
+[2026.06.04-14.24.05:836][971]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Environment 1 1 0
+[2026.06.04-14.24.05:901][972]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Lighting 1 1 0
+[2026.06.04-14.24.06:091][974]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX 1 1 0
+[2026.06.04-14.24.06:171][974]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 69.51 ms
+[2026.06.04-14.24.07:554][975]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1365.86 ms
+[2026.06.04-14.24.09:188][976]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1610.19 ms
+[2026.06.04-14.24.37:412][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.24.37:412][455]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.24.37:433][455]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.24.37:434][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.24.37:436][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-14.24.37:449][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.24.37:512][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.24.37:513][455]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.06.04-14.24.37:513][455]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.06.04-14.24.37:516][455]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.06.04-14.24.37:542][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.06.04-14.24.37:627][456]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.06.04-14.24.37:685][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.06.04-14.24.44:707][758]Cmd: DELETE
+[2026.06.04-14.24.44:707][758]Cmd: ACTOR DELETE
+[2026.06.04-14.24.44:716][758]LogEditorActor: Deleted Actor: BP_jumpBoost_C
+[2026.06.04-14.24.44:769][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.06.04-14.24.44:772][758]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2026.06.04-14.24.47:358][889]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-14.24.47:373][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-14.24.47:374][889]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.24.47:381][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007500s)
+[2026.06.04-14.24.47:381][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.007569s)
+[2026.06.04-14.24.47:435][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.06.04-14.24.47:438][889]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-14.24.47:489][889]LogPlayLevel: PIE: World Init took: (0.051048s)
+[2026.06.04-14.24.47:491][889]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.06.04-14.24.47:491][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-14.24.47:491][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-14.24.47:491][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-14.24.47:491][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-14.24.47:491][889]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-14.24.47:491][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-14.24.47:491][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-14.24.47:491][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-14.24.47:491][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-14.24.47:491][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-14.24.47:491][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-14.24.47:495][889]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-14.24.47:586][889]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-14.24.47:586][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-14.24.47:587][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-14.24.47:587][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-14.24.47:588][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.06.04-14.24.47:588][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.06.04-14.24.47:593][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.06.04-14.24.47:593][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.06.04-14.24.47:593][889]LogInit: FAudioDevice initialized with ID 21.
+[2026.06.04-14.24.47:593][889]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level_HOC_world'.
+[2026.06.04-14.24.47:593][889]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.06.04-14.24.47:600][889]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-14.24.47:835][889]LogWorld: Bringing World /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2026.06.04-16.24.47
+[2026.06.04-14.24.47:837][889]LogWorld: Bringing up level for play took: 0.003307
+[2026.06.04-14.24.47:843][889]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.06.04-14.24.47:849][889]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Blueprints 1 1 0
+[2026.06.04-14.24.47:853][889]PIE: Server logged in
+[2026.06.04-14.24.47:857][889]PIE: Play in editor total start time 0,485 seconds.
+[2026.06.04-14.24.47:879][889]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Environment 1 1 0
+[2026.06.04-14.24.47:943][890]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Lighting 1 1 0
+[2026.06.04-14.24.47:996][892]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX 1 1 0
+[2026.06.04-14.24.49:472][893]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1440.66 ms
+[2026.06.04-14.24.50:880][894]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1391.68 ms
+[2026.06.04-14.25.05:000][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.25.05:001][634]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.25.05:025][634]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.25.05:025][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.25.05:028][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-14.25.05:041][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.25.05:109][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.04-14.25.05:111][634]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.06.04-14.25.05:111][634]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.06.04-14.25.05:114][634]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.06.04-14.25.05:123][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.25.05:140][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2026.06.04-14.25.05:189][635]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.06.04-14.25.05:244][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.06.04-14.25.18:480][270]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.25.22:716][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2479.126221
+[2026.06.04-14.25.22:915][463]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-14.25.22:915][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2479.303223, Update Interval: 324.073608
+[2026.06.04-14.25.27:248][655]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.25.39:372][196]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-14.25.39:386][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-14.25.39:387][196]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.25.39:392][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006248s)
+[2026.06.04-14.25.39:392][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.006314s)
+[2026.06.04-14.25.39:444][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.06.04-14.25.39:447][196]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-14.25.39:493][196]LogPlayLevel: PIE: World Init took: (0.044149s)
+[2026.06.04-14.25.39:494][196]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.06.04-14.25.39:494][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-14.25.39:494][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-14.25.39:494][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-14.25.39:495][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-14.25.39:495][196]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-14.25.39:495][196]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-14.25.39:495][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-14.25.39:495][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-14.25.39:495][196]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-14.25.39:495][196]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-14.25.39:495][196]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-14.25.39:498][196]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-14.25.39:585][196]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-14.25.39:585][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-14.25.39:585][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-14.25.39:585][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-14.25.39:586][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.06.04-14.25.39:586][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.06.04-14.25.39:590][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.06.04-14.25.39:590][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.06.04-14.25.39:590][196]LogInit: FAudioDevice initialized with ID 22.
+[2026.06.04-14.25.39:590][196]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level_HOC_world'.
+[2026.06.04-14.25.39:591][196]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.06.04-14.25.39:598][196]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-14.25.39:786][196]LogWorld: Bringing World /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2026.06.04-16.25.39
+[2026.06.04-14.25.39:789][196]LogWorld: Bringing up level for play took: 0.003371
+[2026.06.04-14.25.39:793][196]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.06.04-14.25.39:798][196]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Blueprints 1 1 0
+[2026.06.04-14.25.39:802][196]PIE: Server logged in
+[2026.06.04-14.25.39:805][196]PIE: Play in editor total start time 0,42 seconds.
+[2026.06.04-14.25.39:827][196]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Environment 1 1 0
+[2026.06.04-14.25.39:891][197]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Lighting 1 1 0
+[2026.06.04-14.25.39:942][199]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX 1 1 0
+[2026.06.04-14.25.41:328][200]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1351.99 ms
+[2026.06.04-14.25.42:701][201]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1355.39 ms
+[2026.06.04-14.26.02:331][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.26.02:331][226]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.26.02:350][226]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.26.02:351][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.26.02:351][226]LogWorld: UWorld::CleanupWorld for SubLevels_Lighting, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.26.02:351][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.26.02:353][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-14.26.02:366][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.26.02:436][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.26.02:436][226]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.06.04-14.26.02:437][226]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.06.04-14.26.02:439][226]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.06.04-14.26.02:467][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2026.06.04-14.26.02:605][227]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.06.04-14.26.02:662][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.06.04-14.26.13:187][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.06.04-14.26.13:463][685]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.26.13:464][685]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_EnvironmentEC8FA6674872493544B9639963EB6AD2.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.26.13:583][685]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.26.13:583][685]LogContentValidation: Enabled validators:
+[2026.06.04-14.26.13:583][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.26.13:583][685]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.26.13:583][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.26.13:583][685]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.26.13:583][685]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.26.13:583][685]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.26.13:584][685]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.26.13:984][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.06.04-14.26.14:044][695]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.26.14:045][695]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints0780DDF4487088F19C4BE1880F9C69C9.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.26.14:146][695]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.26.14:146][695]LogContentValidation: Enabled validators:
+[2026.06.04-14.26.14:146][695]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.26.14:146][695]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.26.14:146][695]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.26.14:146][695]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.26.14:147][695]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.26.14:147][695]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.26.14:147][695]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.26.19:993][809]LogSlate: Window 'Remove Level' being destroyed
+[2026.06.04-14.26.21:524][878]Cmd: DELETE
+[2026.06.04-14.26.21:524][878]Cmd: ACTOR DELETE
+[2026.06.04-14.26.21:535][878]LogEditorActor: Deleted Actor: BP_door_lever_C
+[2026.06.04-14.26.21:591][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.06.04-14.26.21:593][878]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2026.06.04-14.26.27:177][112]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Door_Locked_activity_4_end.BP_Door_Locked_activity_4_end_C
+[2026.06.04-14.26.27:177][112]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Door_Locked_activity_4_end.BP_Door_Locked_activity_4_end_C
+[2026.06.04-14.26.27:184][112]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Door_Locked_activity_4_end.BP_Door_Locked_activity_4_end as actor: BP_Door_Locked_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Door_Locked_activity_4_end_C_0
+[2026.06.04-14.26.27:192][112]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Door_Locked_activity_4_end.BP_Door_Locked_activity_4_end as actor: BP_Door_Locked_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Door_Locked_activity_4_end_C_0
+[2026.06.04-14.26.28:111][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.06.04-14.26.28:115][150]LogEditorActor: Deleted 0 Actors (0.056 secs)
+[2026.06.04-14.26.28:122][150]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Door_Locked_activity_4_end.BP_Door_Locked_activity_4_end_C
+[2026.06.04-14.26.28:122][150]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_Door_Locked_activity_4_end.BP_Door_Locked_activity_4_end_C
+[2026.06.04-14.26.28:131][150]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Door_Locked_activity_4_end.BP_Door_Locked_activity_4_end as actor: BP_Door_Locked_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Door_Locked_activity_4_end_C_1
+[2026.06.04-14.26.28:138][150]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_Door_Locked_activity_4_end.BP_Door_Locked_activity_4_end as actor: BP_Door_Locked_activity_4_end_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_Door_Locked_activity_4_end_C_1
+[2026.06.04-14.26.42:598][813]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.26.45:218][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.06.04-14.26.45:275][931]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.26.45:275][931]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Blueprints08E56D954EC5430EA438B089A00DD5DE.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.26.45:382][931]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.26.45:382][931]LogContentValidation: Enabled validators:
+[2026.06.04-14.26.45:382][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.26.45:382][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.26.45:382][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.26.45:382][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.26.45:382][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.26.45:382][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.26.45:382][931]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.27.32:820][103]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.27.36:348][269]Cmd: DUPLICATE
+[2026.06.04-14.27.36:348][269]Cmd: ACTOR DUPLICATE
+[2026.06.04-14.27.46:657][749]Cmd: DUPLICATE
+[2026.06.04-14.27.46:657][749]Cmd: ACTOR DUPLICATE
+[2026.06.04-14.28.20:842][316]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.28.33:543][885]Cmd: DELETE
+[2026.06.04-14.28.33:543][885]Cmd: ACTOR DELETE
+[2026.06.04-14.28.33:563][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.04-14.28.33:617][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.06.04-14.28.33:622][885]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2026.06.04-14.28.34:764][940]LogPSOHitching: Encountered 500 PSO creation hitches so far (281 graphics, 219 compute). 0 of them were precached.
+[2026.06.04-14.28.36:281][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.06.04-14.28.36:566][  6]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.28.36:567][  6]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_EnvironmentBA4A26E44A97E91A099E908297B707D7.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.28.36:680][  6]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.28.36:680][  6]LogContentValidation: Enabled validators:
+[2026.06.04-14.28.36:680][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.28.36:680][  6]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.28.36:680][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.28.36:680][  6]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.28.36:680][  6]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.28.36:680][  6]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.28.36:681][  6]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.28.53:881][862]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.28.53:881][862]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.28.53:886][862]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_2
+[2026.06.04-14.28.53:891][862]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_2
+[2026.06.04-14.28.55:704][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.06.04-14.28.55:708][943]LogEditorActor: Deleted 0 Actors (0.054 secs)
+[2026.06.04-14.28.55:715][943]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.28.55:715][943]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2026.06.04-14.28.55:721][943]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_3
+[2026.06.04-14.28.55:726][943]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/SubLevels/Maps/SubLevels_Blueprints.SubLevels_Blueprints:PersistentLevel.BP_jumpBoost_C_3
+[2026.06.04-14.28.59:711][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.06.04-14.28.59:771][117]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.28.59:771][117]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_BlueprintsA66FDC8C49956A87421AF5832468C1F5.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.28.59:863][117]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.28.59:863][117]LogContentValidation: Enabled validators:
+[2026.06.04-14.28.59:863][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.28.59:863][117]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.28.59:863][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.28.59:863][117]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.28.59:863][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.28.59:863][117]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.28.59:864][117]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.29.12:132][681]Cmd: DUPLICATE
+[2026.06.04-14.29.12:132][681]Cmd: ACTOR DUPLICATE
+[2026.06.04-14.29.25:022][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-14.29.25:151][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.06.04-14.29.25:470][265]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.29.25:470][265]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Environment397B04D64FFA948A84BFF6B28600F870.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.29.25:487][265]LogFileHelpers: Saving map 'SubLevels_Environment' took 0.389
+[2026.06.04-14.29.25:503][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 481.862 ms (total: 1.74 sec)
+[2026.06.04-14.29.25:581][265]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.29.25:581][265]LogContentValidation: Enabled validators:
+[2026.06.04-14.29.25:581][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.29.25:581][265]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.29.25:581][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.29.25:581][265]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.29.25:581][265]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.29.25:581][265]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.29.25:582][265]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.29.27:263][337]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-14.29.27:277][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-14.29.27:277][337]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.29.27:284][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006488s)
+[2026.06.04-14.29.27:284][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.006559s)
+[2026.06.04-14.29.27:340][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.06.04-14.29.27:342][337]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-14.29.27:387][337]LogPlayLevel: PIE: World Init took: (0.045149s)
+[2026.06.04-14.29.27:390][337]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.06.04-14.29.27:390][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-14.29.27:390][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-14.29.27:390][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-14.29.27:390][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-14.29.27:390][337]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-14.29.27:390][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-14.29.27:390][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-14.29.27:390][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-14.29.27:390][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-14.29.27:390][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-14.29.27:390][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-14.29.27:398][337]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-14.29.27:495][337]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-14.29.27:496][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-14.29.27:496][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-14.29.27:496][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-14.29.27:498][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.06.04-14.29.27:498][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.06.04-14.29.27:501][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.06.04-14.29.27:501][337]LogInit: FAudioDevice initialized with ID 23.
+[2026.06.04-14.29.27:501][337]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level_HOC_world'.
+[2026.06.04-14.29.27:501][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.06.04-14.29.27:501][337]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.06.04-14.29.27:509][337]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-14.29.27:719][337]LogWorld: Bringing World /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2026.06.04-16.29.27
+[2026.06.04-14.29.27:722][337]LogWorld: Bringing up level for play took: 0.003429
+[2026.06.04-14.29.27:727][337]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.06.04-14.29.27:732][337]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Blueprints 1 1 0
+[2026.06.04-14.29.27:737][337]PIE: Server logged in
+[2026.06.04-14.29.27:740][337]PIE: Play in editor total start time 0,464 seconds.
+[2026.06.04-14.29.27:762][337]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Environment 1 1 0
+[2026.06.04-14.29.27:835][338]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Lighting 1 1 0
+[2026.06.04-14.29.28:001][340]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX 1 1 0
+[2026.06.04-14.29.28:105][340]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 90.07 ms
+[2026.06.04-14.29.29:520][341]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1397.47 ms
+[2026.06.04-14.29.30:922][342]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1384.09 ms
+[2026.06.04-14.29.48:281][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.29.48:281][258]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.29.48:303][258]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.29.48:303][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.29.48:306][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-14.29.48:319][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.29.48:389][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.29.48:390][258]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.06.04-14.29.48:390][258]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.06.04-14.29.48:393][258]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.06.04-14.29.48:422][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2026.06.04-14.29.48:569][259]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.06.04-14.29.48:627][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.06.04-14.29.52:760][437]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.04-14.30.17:343][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-14.30.17:467][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.06.04-14.30.17:527][527]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Blueprints
+[2026.06.04-14.30.17:529][527]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_BlueprintsDF3CF7A5454C0C4EFA76478A2971389E.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Blueprints.umap'
+[2026.06.04-14.30.17:539][527]LogFileHelpers: Saving map 'SubLevels_Blueprints' took 0.123
+[2026.06.04-14.30.17:555][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 211.171 ms (total: 1.95 sec)
+[2026.06.04-14.30.17:633][527]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.30.17:634][527]LogContentValidation: Enabled validators:
+[2026.06.04-14.30.17:634][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.30.17:634][527]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.30.17:634][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.30.17:634][527]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.30.17:634][527]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.30.17:634][527]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.30.17:634][527]AssetCheck: /Game/SubLevels/Maps/SubLevels_Blueprints Validating asset
+[2026.06.04-14.30.22:645][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-14.30.22:658][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-14.30.22:659][756]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.30.22:665][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007358s)
+[2026.06.04-14.30.22:665][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.007484s)
+[2026.06.04-14.30.22:719][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.06.04-14.30.22:721][756]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-14.30.22:763][756]LogPlayLevel: PIE: World Init took: (0.041862s)
+[2026.06.04-14.30.22:765][756]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.06.04-14.30.22:765][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-14.30.22:765][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-14.30.22:765][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-14.30.22:765][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-14.30.22:765][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-14.30.22:765][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-14.30.22:765][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-14.30.22:765][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-14.30.22:765][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-14.30.22:765][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-14.30.22:765][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-14.30.22:768][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-14.30.22:856][756]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-14.30.22:856][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-14.30.22:857][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-14.30.22:857][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-14.30.22:857][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.06.04-14.30.22:857][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.06.04-14.30.22:865][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.06.04-14.30.22:865][756]LogInit: FAudioDevice initialized with ID 24.
+[2026.06.04-14.30.22:865][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.06.04-14.30.22:865][756]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level_HOC_world'.
+[2026.06.04-14.30.22:865][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.06.04-14.30.22:872][756]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-14.30.23:068][756]LogWorld: Bringing World /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2026.06.04-16.30.23
+[2026.06.04-14.30.23:069][756]LogWorld: Bringing up level for play took: 0.003119
+[2026.06.04-14.30.23:074][756]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.06.04-14.30.23:079][756]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Blueprints 1 1 0
+[2026.06.04-14.30.23:083][756]PIE: Server logged in
+[2026.06.04-14.30.23:087][756]PIE: Play in editor total start time 0,43 seconds.
+[2026.06.04-14.30.23:106][756]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Environment 1 1 0
+[2026.06.04-14.30.23:169][757]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Lighting 1 1 0
+[2026.06.04-14.30.23:223][759]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX 1 1 0
+[2026.06.04-14.30.24:618][759]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1377.88 ms
+[2026.06.04-14.30.26:041][760]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1405.56 ms
+[2026.06.04-14.31.06:942][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.31.06:942][858]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.31.06:961][858]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.31.06:963][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.31.06:963][858]LogWorld: UWorld::CleanupWorld for SubLevels_Blueprints, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.31.06:963][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.31.06:963][858]LogWorld: UWorld::CleanupWorld for SubLevels_VFX, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.31.06:963][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.31.06:967][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-14.31.06:984][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.31.07:054][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.31.07:055][858]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.06.04-14.31.07:055][858]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.06.04-14.31.07:057][858]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.06.04-14.31.07:083][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.06.04-14.31.07:166][859]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.06.04-14.31.07:224][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.06.04-14.31.26:437][685]Cmd: DUPLICATE
+[2026.06.04-14.31.26:439][685]Cmd: ACTOR DUPLICATE
+[2026.06.04-14.31.36:925][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-14.31.37:049][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.06.04-14.31.37:335][147]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.31.37:336][147]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_Environment0FA8EF774D55C51C141BE991E197EAAA.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.31.37:351][147]LogFileHelpers: Saving map 'SubLevels_Environment' took 0.358
+[2026.06.04-14.31.37:367][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 441.878 ms (total: 2.39 sec)
+[2026.06.04-14.31.37:446][147]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.31.37:446][147]LogContentValidation: Enabled validators:
+[2026.06.04-14.31.37:446][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.31.37:446][147]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.31.37:446][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.31.37:446][147]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.31.37:446][147]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.31.37:446][147]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.31.37:447][147]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
+[2026.06.04-14.31.39:725][252]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-14.31.39:737][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-14.31.39:739][252]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.31.39:745][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006602s)
+[2026.06.04-14.31.39:745][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.006673s)
+[2026.06.04-14.31.39:798][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2026.06.04-14.31.39:800][252]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-14.31.39:845][252]LogPlayLevel: PIE: World Init took: (0.044568s)
+[2026.06.04-14.31.39:847][252]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.06.04-14.31.39:847][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-14.31.39:847][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-14.31.39:847][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-14.31.39:847][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-14.31.39:847][252]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-14.31.39:847][252]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-14.31.39:847][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-14.31.39:847][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-14.31.39:847][252]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-14.31.39:847][252]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-14.31.39:847][252]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-14.31.39:850][252]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-14.31.39:944][252]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-14.31.39:944][252]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-14.31.39:944][252]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-14.31.39:944][252]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-14.31.39:945][252]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.06.04-14.31.39:945][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.06.04-14.31.39:950][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.06.04-14.31.39:950][252]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.06.04-14.31.39:950][252]LogInit: FAudioDevice initialized with ID 25.
+[2026.06.04-14.31.39:950][252]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level_HOC_world'.
+[2026.06.04-14.31.39:950][252]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.06.04-14.31.39:958][252]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-14.31.40:162][252]LogWorld: Bringing World /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2026.06.04-16.31.40
+[2026.06.04-14.31.40:163][252]LogWorld: Bringing up level for play took: 0.002508
+[2026.06.04-14.31.40:167][252]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.06.04-14.31.40:171][252]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Blueprints 1 1 0
+[2026.06.04-14.31.40:175][252]PIE: Server logged in
+[2026.06.04-14.31.40:180][252]PIE: Play in editor total start time 0,441 seconds.
+[2026.06.04-14.31.40:199][252]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Environment 1 1 0
+[2026.06.04-14.31.40:263][253]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Lighting 1 1 0
+[2026.06.04-14.31.40:315][255]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX 1 1 0
+[2026.06.04-14.31.41:690][256]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1338.80 ms
+[2026.06.04-14.31.43:071][257]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1364.05 ms
+[2026.06.04-14.31.43:084][257]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2859.506348
+[2026.06.04-14.31.43:301][269]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-14.31.43:301][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2859.706787, Update Interval: 311.435272
+[2026.06.04-14.32.27:741][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.32.27:741][644]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.32.27:761][644]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.32.27:762][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.32.27:762][644]LogWorld: UWorld::CleanupWorld for SubLevels_Blueprints, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.32.27:763][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.32.27:763][644]LogWorld: UWorld::CleanupWorld for SubLevels_Lighting, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.32.27:763][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.32.27:765][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-14.32.27:779][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.32.27:847][644]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.04-14.32.27:847][644]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.06.04-14.32.27:847][644]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2026.06.04-14.32.27:851][644]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2026.06.04-14.32.27:860][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.32.27:878][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.06.04-14.32.28:019][645]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.06.04-14.32.28:076][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.06.04-14.32.55:121][818]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.04-14.32.55:135][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-14.32.55:135][818]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.32.55:142][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006460s)
+[2026.06.04-14.32.55:142][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/HOC_World/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.006528s)
+[2026.06.04-14.32.55:193][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2026.06.04-14.32.55:197][818]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_HOC_world
+[2026.06.04-14.32.55:237][818]LogPlayLevel: PIE: World Init took: (0.040958s)
+[2026.06.04-14.32.55:240][818]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.06.04-14.32.55:240][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-14.32.55:240][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-14.32.55:240][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-14.32.55:240][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-14.32.55:240][818]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-14.32.55:240][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-14.32.55:240][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-14.32.55:240][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-14.32.55:240][818]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-14.32.55:240][818]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-14.32.55:240][818]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-14.32.55:246][818]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-14.32.55:345][818]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-14.32.55:345][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-14.32.55:345][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-14.32.55:345][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-14.32.55:346][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.06.04-14.32.55:346][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.06.04-14.32.55:352][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.06.04-14.32.55:352][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.06.04-14.32.55:352][818]LogInit: FAudioDevice initialized with ID 26.
+[2026.06.04-14.32.55:352][818]LogAudio: Display: Audio Device (ID: 26) registered with world 'Level_HOC_world'.
+[2026.06.04-14.32.55:352][818]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.06.04-14.32.55:359][818]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2026.06.04-14.32.55:545][818]LogWorld: Bringing World /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2026.06.04-16.32.55
+[2026.06.04-14.32.55:547][818]LogWorld: Bringing up level for play took: 0.003097
+[2026.06.04-14.32.55:551][818]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.06.04-14.32.55:555][818]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Blueprints 1 1 0
+[2026.06.04-14.32.55:560][818]PIE: Server logged in
+[2026.06.04-14.32.55:564][818]PIE: Play in editor total start time 0,43 seconds.
+[2026.06.04-14.32.55:585][818]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Environment 1 1 0
+[2026.06.04-14.32.55:653][819]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_Lighting 1 1 0
+[2026.06.04-14.32.55:723][821]LogLevel: ActivateLevel /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX 1 1 0
+[2026.06.04-14.32.57:089][821]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1349.71 ms
+[2026.06.04-14.32.58:469][822]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/SubLevels/Maps/UEDPIE_0_SubLevels_VFX took (less than) 1358.67 ms
+[2026.06.04-14.33.48:501][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.33.48:501][412]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/HOC_World/UEDPIE_0_Level_HOC_world
+[2026.06.04-14.33.48:520][412]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.33.48:521][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.33.48:521][412]LogWorld: UWorld::CleanupWorld for SubLevels_Lighting, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-14.33.48:521][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.33.48:525][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-14.33.48:538][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-14.33.48:611][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-14.33.48:611][412]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.06.04-14.33.48:612][412]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2026.06.04-14.33.48:615][412]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2026.06.04-14.33.48:641][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2026.06.04-14.33.48:784][413]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.06.04-14.33.48:839][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.06.04-14.33.54:183][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.06.04-14.33.54:459][637]LogSavePackage: Moving output files for package: /Game/SubLevels/Maps/SubLevels_Environment
+[2026.06.04-14.33.54:460][637]LogSavePackage: Moving '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Saved/SubLevels_EnvironmentBA27E4BC49F4CC55554D84A63F650D58.tmp' to '../../../../../../Users/florine.piquet/Documents/cours_3d3/UnrealLearningKit_SourceControl/Content/SubLevels/Maps/SubLevels_Environment.umap'
+[2026.06.04-14.33.54:581][637]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-14.33.54:581][637]LogContentValidation: Enabled validators:
+[2026.06.04-14.33.54:581][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-14.33.54:581][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-14.33.54:581][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-14.33.54:581][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-14.33.54:581][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-14.33.54:581][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-14.33.54:582][637]AssetCheck: /Game/SubLevels/Maps/SubLevels_Environment Validating asset
